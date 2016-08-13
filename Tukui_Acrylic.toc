@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: |cffC495DDTukui|r Acrylic's Custom Layout
+## Notes: A custom layout for Tukui and Tukui_Naga
+## Author: Acrylic
+## Version: 7.0
+## RequiredDeps: Tukui, Tukui_Naga
+
+Tukui_Acrylic.lua
